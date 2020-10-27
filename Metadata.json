@@ -1,7 +1,7 @@
 {
     "Author": "Manjunath Rao G",
     "ContentSize": 5600,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/generate-report-for-unattached-azure-disks-(managed-and-unmanaged)/master/get-unattachedazurevhds.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/generate-report-for-unattached-azure-disks--managed-and-unmanaged-/master/get-unattachedazurevhds.ps1",
     "DownloadCount": 1552,
     "Id": "Generate-report-for-b10d625c",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "PowerShell script to generate a report of unattached VHD disks.\u00a0This script will create two files - unattached_managed_disks.csv,\u00a0unattached_un_managed_disks.csvThese two files will contain details about VHD files that are not attached to an Azure virtual machine.NOTE: You have t",
     "Title": "Generate report for unattached Azure disks (managed and un-managed)",
     "UpdatedDate": "2018-7-17T00:00:00",
-    "Url": "https://github.com/azureautomation/generate-report-for-unattached-azure-disks-(managed-and-unmanaged)",
+    "Url": "https://github.com/azureautomation/generate-report-for-unattached-azure-disks--managed-and-unmanaged-",
     "UserTags": "Microsoft Azure, Powershell, Powershell Script"
 }
